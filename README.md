@@ -1,6 +1,5 @@
 ## hi :3
 i love games, music and anime
-
 started learning python🫩🫩
 <!--
 **trwqq/trwqq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
